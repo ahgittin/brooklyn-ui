@@ -273,7 +273,8 @@
                         <exclude>src/main/webapp/assets/img/zeroclipboard/ZeroClipboard.swf</exclude>
 
                         <exclude>src/test/resources/fixtures/*</exclude>
-
+                        <exclude>new/**</exclude>
+                        <exclude>**/node_modules/**</exclude>
                         <!--
                             Copy of swagger-ui from https://github.com/swagger-api/swagger-ui tag::v2.1.3
                         -->

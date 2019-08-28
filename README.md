@@ -45,7 +45,7 @@ You will need the following binaries installed first:
   * `libpng-dev` for Debian/Ubuntu (also requires `libpng12`)
   * `libpng` for MacOS
 
-_Optional, if the `libpng` cannot be found when building (package names may vary; often these are not required):_
+Optional, if the `libpng` cannot be found when building (package names may vary; often these are not required):
 * `libpng` (or `libpng-devel` on CentOS, `libpng-dev` on Debian/Ubuntu, `libpng12` sometimes)
 * _`automake (opt)`_    
 * _`autoconf`_
@@ -55,7 +55,7 @@ _Optional, if the `libpng` cannot be found when building (package names may vary
 * _`nasm`_
 * _`gcc`_
 * _`build-essential`_
-* `bzip2`
+* _`bzip2`_
 * _`pngquant`_
 * _`libfontconfig1-dev`_
 
